@@ -1,9 +1,12 @@
 {
-  "name": "babel-plugin-transform-modern-regexp",
+  "name": "@opencounter/babel-plugin-transform-modern-regexp",
   "version": "0.1.0",
   "license": "MIT",
   "description": "Enables modern RegExp features in JavaScript",
-  "repository": "DmitrySoshnikov/babel-plugin-transform-modern-regexp",
+  "repository": {
+    "type": "git",
+    "url": "https:/github.com/opencounter/babel-plugin-transform-modern-regexp"
+  },
   "homepage": "https://github.com/DmitrySoshnikov/babel-plugin-transform-modern-regexp",
   "bugs": "https://github.com/DmitrySoshnikov/babel-plugin-transform-modern-regexp/issues",
   "scripts": {
